@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Muyu3
-- 👀 I’m interested in ... data engineering
+- 👀 I’m interested in ... data analysis
 - 🌱 I’m currently learning ... Power Bi
-- 💞️ I’m looking to collaborate on ... Power Bi projects
+- 💞️ I’m looking to collaborate on ... internships
 - 📫 How to reach me ... janekenda7@gmail.com
 - 😄 Pronouns: ... her/she
 - ⚡ Fun fact: ... i love walking
