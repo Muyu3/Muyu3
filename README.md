@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Muyu3
-- 👀 I’m interested in ... data analysis
-- 🌱 I’m currently learning ... Power Bi
+- 👀 I’m interested in ...Data Science internships/junior roles
+- 🌱 I’m currently learning ... machine learning
 - 💞️ I’m looking to collaborate on ... internships
 - 📫 How to reach me ... janekenda7@gmail.com
 - 😄 Pronouns: ... her/she
